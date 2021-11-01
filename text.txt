@@ -1,0 +1,45 @@
+An ninh mạng
+
+---------------------------------------------------------------------------------------------------------------
+
+1. Nghề An ninh mạng
+
+Ngành an ninh mạng hay còn gọi Cybersecurity có thể hiểu một cách đơn giản nhất là là ngành chuyên về bảo mật, bảo vệ mạng máy tính cũng như máy tính khỏi bị xâm nhập hay bị trộm cấp từ những thông tin bảo mật. 
+Nhiệm vụ chính của ngành là phòng ngừa, phát hiện, ngăn chặng và ứng phó những cuộc tấn công. 
+Để có thể bảo mật một cách hiệu quả thì các chuyên gia an ninh mạng cần tạo ra một rào cản chắc chắn đẻ chống lại các cuộc tấn công từ bên ngoài và lẫn bên trong.
+
+2. Công việc của chuyên gia An ninh mạng
+
+   - Nhà phân tích an ninh mạng, bảo mật thông tin 
+
+   - Nhà tư vấn bảo mật
+
+   - Kỹ sư bảo mật
+
+   - Nhà phân tích mối đe dọa nâng cao
+
+   - Người đánh gia an toàn thông tin
+
+   - Người quản lý an ninh thông tin
+
+3. Kỹ năng cần thiết để trở thành kỹ sư An ninh mạng
+
+Thích ứng và làm việc nhóm:  phối hợp công việc với cộng sự, khả năng thuyết trình, giao tiếp, ứng xử của bạn sẽ được sử dụng tối đa trong môi trường làm việc này.
+
+Siêng năng, học hỏi: Ngoài những kiến thức được cung cấp qua trường lớp, cầm tìm tòi trau dồi thêm những kiến thức thực tế  và áp dụng các phương pháp mới để xử lý các vấn đề nhanh triệt để. 
+
+Trình độ ngoại ngữ: công việc này mang tính chuyên nghiệp cao mang tính toàn cầu. Để trở thành một kỹ sư an ninh mạng giỏi, bạn phải khá thành thạo ngoại ngữ, đặc biệt là kỹ năng đọc hiểu các vấn đề, thông số chuyên môn để tiếp cận, cập nhật thông tin công nghệ
+
+4. Chương trình đào tạo
+
+STT 	 Tên môn học                        	Số tín chỉ
+Môn đại cương 
+1 	Chính trị  	4
+2 	Phát luật  	2
+3 	Giáo dục thể chất  	2
+4 	Giáo dục quốc phòng và an ninh  	3
+5 	Tin học văn phòng  	3
+6 	Anh văn 1 	3
+7 	Anh văn 2 	3
+8 	Kỹ năng mềm 1  	2
+Tổng số môn đại cương  	22
